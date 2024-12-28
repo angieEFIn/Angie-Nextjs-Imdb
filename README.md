@@ -1,4 +1,4 @@
-# NextJS AwesomeIMDB App
+# ANgie NextJS IMDB App
 
 This is a demo project showcasing a movie search app built with Next.js and the OMDb API. It allows users to search for movies, view detailed information about them, and explore movie posters, ratings, and more. Perfect for learning how to integrate third-party APIs with React-based frameworks like Next.js.
 
@@ -83,10 +83,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends via social media.
 
-Feel free to reach out to me through @sanjaykumarwebs if you have any questions or feedback!
+Feel free to reach out to me through @angieEFIn if you have any questions or feedback!
 
-### Recommended / Preferred
-
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [Education Funda](https://www.youtube.com/@EducationFundaIndia)
-- [Sanjay Kumar](https://sanjaydeveloper.netlify.app/)
